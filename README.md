@@ -1,4 +1,4 @@
-# Ardoino_Magnetmeter
+# Arduino_Magnetmeter
 
 Just Download it, compile it (with ArdoIno IDE) and use it with HMC5883 Magnetic detector!
 

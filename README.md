@@ -7,3 +7,5 @@ The gauging procedure of the sensor, determines these positive and negative maxi
 
 The readings, this means the originally detected counts, are rx and the settings, the scaled (gauged) values, are sx. rxp is the positive maximum, which means the value for the x axis parallel to the magnetic earth field B, and rxm is the negative value for directing the x axis antiparallel to B. 
 
+![My image](Graph.png)
+Figure: The relationship between read counts rx and calibrated counts sx. The blue dots show the real read counts for the calibration condition (parallel or antiparallel to B). The red line is the calibration line.
